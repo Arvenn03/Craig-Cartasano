@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>2nd year social media website project)</b>
+- <b>2nd year social media website project</b>
   - [Social Media website](https://github.com/Arvenn03/social-media-website)
 -
-
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/joshmadakor
