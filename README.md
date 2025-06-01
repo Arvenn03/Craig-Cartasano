@@ -1,4 +1,4 @@
-<h1>Hi, I'm Craig! <br/><a>rookie programmer</a>, <a href="www.linkedin.com/in/craig-cartasano-4b7439242">Information Technology Student</a></h1>
+<h1>Hi, I'm Craig! <br/><a>rookie programmer</a>, <a>Information Technology Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
