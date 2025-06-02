@@ -4,4 +4,5 @@
 
 - <b>2nd year social media website project</b>
   - [Social Media website](https://github.com/Arvenn03/social-media-website)
--
+- <b>2nd year game project </b>
+  - [Duck Hunt recreation with Javascript](https://github.com/Arvenn03/Duck-Hunt-game-recreation)
